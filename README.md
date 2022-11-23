@@ -1,2 +1,2 @@
 # scriptslnx
-Some scripts for linux fedora fresh installations and maintance
+Some scripts for linux fedora systems and maintance
